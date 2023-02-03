@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Karol W. (@Xpeq7)
-- 👀 I’m interested in sleeping, and using slightly out of date computers.
-- 🌱 I’m currently learning the basics of C++
+- 👋 Hi, I’m Karol Wie{...}ki (@Xpeq7)
+- 👀 I’m interested in Computers in general.
+- 🌱 I’m currently learning the basics of C++ (and Kdenlive)
 - 📫 How to reach me:
 Twitter: @Xpeq7
 Discord: Xpeq7#8134
