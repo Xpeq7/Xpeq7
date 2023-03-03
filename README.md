@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karol Wie{...}ki (@Xpeq7)
+- 👋 Hi, I’m Karol Wierzchowski (@Xpeq7)
 - 👀 I’m interested in Computers in general.
 - 🌱 I’m currently learning the basics of C++ (and Kdenlive)
 - 📫 How to reach me:
